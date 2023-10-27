@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="counterAdded">Added: %d</string>
+    <string name="counterRemoved">Removed: %d</string>
+</resources>

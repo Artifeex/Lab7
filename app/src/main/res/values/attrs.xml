@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCustomView">
+        <attr name="buttonBackgroundColor" format="color"/>
+
+    </declare-styleable>
+
+    <attr name="buttonBackgroundAttr" format="reference"/>
+    
+    <declare-styleable name="MyCustomTextView">
+
+    </declare-styleable>
+    <attr name="myCustomTextViewAttr" format="reference"/>
+
+</resources>
